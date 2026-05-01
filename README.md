@@ -6,6 +6,9 @@ Professionals spend 28% of their workday managing email. This agent automates th
 
 ---
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3972f211-afb7-47d4-8751-5412ba38dc94" />
+
+
 ## The Problem
 
 The average knowledge worker processes **120 emails per day**. Reading, classifying, and drafting responses consumes hours — time that disappears from deep work. Most emails follow predictable patterns: questions, action requests, meeting setups, invoices. The agent handles the pattern; you handle the judgment.
