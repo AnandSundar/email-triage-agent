@@ -1,0 +1,16 @@
+credentials.json
+token.pickle
+.env
+db/*.db
+backend/data/*.db
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+*.log
+.DS_Store
+node_modules
+dist/
+backend/dist/
+*.tsbuildinfo
+.claude/settings.local.json
